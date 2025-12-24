@@ -1,0 +1,27 @@
+.all-we-need{
+    position: relative;
+     background-image: url(images/back1.jpg);
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 900px;
+    margin-top: -3px;
+}
+.all-we-need >.information{
+    position: absolute;
+    color: white;
+    top: 460px;
+    left: 400px;
+    font-size: 20px;
+}
+.all-we-need >.more-information{
+    position: absolute;
+    color: white;
+    top: 400px;
+    left: 400px;
+    font-size: 20px;
+}
+
+/*                 GROCERY STYLES          */
+

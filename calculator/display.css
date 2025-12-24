@@ -47,6 +47,8 @@ form .display input{
 form input.equal{
     width: 145px;
 }
-form .operator, .equal{
+form .operator, form .equal{
     color: #33ffd8;
 }
+/*                     SECTION TWO                */
+
